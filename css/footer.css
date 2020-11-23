@@ -1,0 +1,21 @@
+/* =====================================================================================================================
+
+	Copyright 2020-2021   Jean Inderchit   Les Haut Bois
+
+   ================================================================================================================== */
+
+.footer-container {
+	display: flex;
+	justify-content: center;
+	background-color: var(--background-2);
+}
+
+.footer {
+	padding-block: 10px;
+	width: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: var(--text-primary);
+	font-size: 12px;
+}

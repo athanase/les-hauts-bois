@@ -1,0 +1,57 @@
+/* =====================================================================================================================
+
+	Copyright 2020-2021   Jean Inderchit   Les Haut Bois
+
+   ================================================================================================================== */
+
+#menu_container {
+	overflow: hidden;
+	color: var(--text-primary);
+	background-color: var(--background-2);
+	padding-block: 10px;
+	display: flex;
+	justify-content: center;
+	border: 1px solid var(--polar-4);
+}
+
+#menu {
+	background-color: var(--background-2);
+	font-size: 16px;
+	width: 60%;
+	display: flex;
+	justify-content: space-around;
+}
+
+/* Style the links inside the navigation bar */
+#menu a {
+	color: var(--text-primary);
+	border-radius: 2px;
+	border: none;
+	margin-left: 7px;
+	margin-right: 7px;
+	text-align: center;
+	text-decoration: none;
+	padding: 6px 10px;
+	transition: 0.25s;
+}
+
+/* Change the color of links on hover */
+#menu a:hover {
+	background-color: var(--frost-3);
+}
+
+#menu #current_page {
+	background: var(--frost-3);
+	color: var(--background-2);
+}
+
+.sticky {
+	display: flex;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.sticky + .content_container {
+	padding-top: 60px;
+}
