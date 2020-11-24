@@ -52,9 +52,10 @@
 							new Image( "../images/colchique/colchique_cuisine.jpg", "Colchique_cuisine" ),
 							new Image( "../images/colchique/colchique_salon_3.jpg", "Colchique_salon_3" ),
 							new Image( "../images/colchique/colchique_salon_2.jpg", "Colchique_salon_2" ),
+							new Image( "../images/colchique/colchique_couloir.jpg", "Colchique_salon_2" ),
 						] ),
 						new Highlight( "1 poêle a bois", [
-							new Image( "../images/colchique/colchique_salon_1.jpg", "Colchique_salon_1" ),
+							new Image( "../images/colchique/colchique_poele.jpg", "Colchique_salon_1" ),
 						] ),
 						new Highlight( "1 chambre avec lit 140 cm", [
 							new Image( "../images/colchique/colchique_chambre1.jpg", "Colchique_chambre_1" ),
@@ -73,10 +74,10 @@
 							new Image( "../images/colchique/colchique_WC.jpg", "Colchique_WC" ),
 						] ),
 						new Highlight( "1 terrasse privative avec table bois", [
-							new Image( "../images/colchique/", "Colchique_Terrasse" ),
+							new Image( "../images/colchique/colchique_terrasse.jpg", "Colchique_Terrasse" ),
 						] ),
 						new Highlight( "1 local de rangement, (ski, luge, VTT…)", [
-							new Image( "../images/colchique/colchique_ext_3.jpg", "Colchique_Local" ),
+							new Image( "../images/colchique/colchique_local.jpg", "Colchique_Local" ),
 						] ),
 						new Highlight( "1 bûcher pour le bois", [
 							new Image( "../images/colchique/colchique_ext_2.jpg", "Colchique_Bois" ),
@@ -87,6 +88,8 @@
 							new Image( "../images/colchique/colchique_chambre3_1.jpg", "Colchique_Couchages_Mezzanine" ),
 							new Image( "../images/colchique/colchique_chambre3_2.jpg", "Colchique_Couchages_Mezzanine" ),
 							new Image( "../images/colchique/colchique_chambre3_3.jpg", "Colchique_Couchages_Mezzanine" ),
+							new Image( "../images/colchique/colchique_chambre3_4.jpg", "Colchique_Couchages_Mezzanine" ),
+							new Image( "../images/colchique/colchique_chambre3_6.jpg", "Colchique_Couchages_Mezzanine" ),
 						] ),
 						new Highlight( "1 douche", [
 							new Image( "../images/colchique/colchique_SdB.jpg", "Colchique SdB Mezzanine" ),
@@ -118,7 +121,7 @@
 							new Image( "../images/anemone/anemone_salon_1.jpg", "Anémone_salon_1" ),
 						] ),
 						new Highlight( "1 poêle a bois", [
-							new Image( "../images/anemone/", "Anémone_poêle" ),
+							new Image( "../images/anemone/anemone_salon_2.jpg", "Anémone_poêle" ),
 						] ),
 						new Highlight( "1 chambre avec lit 140 cm", [
 							new Image( "../images/anemone/anemone_chambre1_1.jpg", "Anémone_Chambre_1_1" ),
@@ -139,10 +142,10 @@
 							new Image( "../images/anemone/anemone_WC.jpg", "Anémone_WC" ),
 						] ),
 						new Highlight( "1 terrasse privative avec table bois", [
-							new Image( "../images/anemone/anemone_ext_3.jpg", "Anémone_Terrasse" ),
+							new Image( "../images/anemone/anemone_ext_2.jpg", "Anémone_Terrasse" ),
 						] ),
 						new Highlight( "1 local de rangement, (ski, luge, VTT…)", [
-							new Image( "../images/anemone/", "Anémone_Local" ),
+							new Image( "../images/anemone/anemone_local.jpg", "Anémone_Local" ),
 						] ),
 						new Highlight( "1 bûcher pour le bois", [
 							new Image( "../images/anemone/anemone_ext_5.jpg", "Anémone_Bois" ),
@@ -179,7 +182,8 @@
 					const eglantine_highlights_1 = [
 						new Highlight( "1 cuisine équipée ouverte sur séjour", [
 							new Image( "../images/eglantine/eglantine_cuisine.jpg", "Églantine_cuisine_1" ),
-							new Image( "../images/eglantine/eglantine_salon1.jpg", "Églantine_Salon" ),
+							new Image( "../images/eglantine/eglantine_salon2.jpg", "Églantine_Salon" ),
+							new Image( "../images/eglantine/eglantine_salle_a_manger_cuisine.jpg", "Églantine_Salon" ),
 						] ),
 						new Highlight( "1 poêle a bois", [
 							new Image( "../images/eglantine/", "Églantine_poêle" ),
@@ -206,7 +210,7 @@
 							new Image( "../images/eglantine/eglantine_ext_4.jpg", "Églantine_Terrasse" ),
 						] ),
 						new Highlight( "1 local de rangement, (ski, luge, VTT…)", [
-							new Image( "../images/eglantine/", "Églantine_Local" ),
+							new Image( "../images/eglantine/eglantine_local.jpg", "Églantine_Local" ),
 						] ),
 						new Highlight( "1 bûcher pour le bois", [
 							new Image( "../images/eglantine/eglantine_ext_5.jpg", "Églantine_Bois" ),
