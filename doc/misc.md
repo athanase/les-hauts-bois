@@ -38,7 +38,7 @@ globally ignore:
 ## .editorconfig
 
 The `.editorconfig` file is provided in order to encourage and help you and
-your team define and maintain consistent coding styles between different
+your team define and Maintain consistent coding styles between different
 editors and IDEs.
 
 By default, `.editorconfig` includes some basic
@@ -77,9 +77,9 @@ The `.htaccess` file is mostly used for:
 * Redirects
 * Gzipping
 
-If you have access to the main server configuration file (usually called
+If you have access to the Main server configuration file (usually called
 `httpd.conf`), you should add the logic from the `.htaccess` file in, for
-example, a `<Directory>` section in the main configuration file. This is usually
+example, a `<Directory>` section in the Main configuration file. This is usually
 the recommended way, as using .htaccess files slows down Apache!
 
 To enable Apache modules locally, please see [the Apache modules documentation](https://github.com/h5bp/server-configs-apache#enable-apache-httpd-modules)

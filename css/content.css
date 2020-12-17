@@ -223,7 +223,7 @@ input[type=text]:focus {
 	border: 2px solid var(--frost-2);
 }
 
-input[type=email] {
+input[type=eMail] {
 	background-color: var(--background-3);
 	color: var(--text-primary);
 	width: 50%;
@@ -234,7 +234,7 @@ input[type=email] {
 	border: 2px solid var(--background-3);
 }
 
-input[type=email]:focus {
+input[type=eMail]:focus {
 	border: 2px solid var(--frost-2);
 }
 

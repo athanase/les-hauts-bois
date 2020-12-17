@@ -2,7 +2,7 @@
 # https://github.com/h5bp/server-configs-apache
 
 # (!) Using `.htaccess` files slows down Apache, therefore, if you have
-# access to the main server configuration file (which is usually called
+# access to the Main server configuration file (which is usually called
 # `httpd.conf`), you should add this logic there.
 #
 # https://httpd.apache.org/docs/current/howto/htaccess.html
@@ -24,9 +24,9 @@
 # (!) Do not use this without understanding the consequences.
 #     This will permit access from any other website.
 #     Instead of using this file, consider using a specific rule such as
-#     allowing access based on (sub)domain:
+#     allowing access based on (sub)doMain:
 #
-#         Header set Access-Control-Allow-Origin "subdomain.example.com"
+#         Header set Access-Control-Allow-Origin "subdoMain.example.com"
 
 # <IfModule mod_headers.c>
 #     Header set Access-Control-Allow-Origin "*"
@@ -39,7 +39,7 @@
 # Send the CORS header for images when browsers request it.
 #
 # https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image
-# https://blog.chromium.org/2011/07/using-cross-domain-images-in-webgl-and.html
+# https://blog.chromium.org/2011/07/using-cross-doMain-images-in-webgl-and.html
 
 <IfModule mod_setenvif.c>
     <IfModule mod_headers.c>
@@ -366,7 +366,7 @@ RewriteRule ^(.*)$ https://www.leshautsbois.fr/$1 [R,L]
 #
 # (2) The rule assumes by default that both HTTP and HTTPS environments are
 #     available for redirection.
-#     If your SSL certificate could not handle one of the domains used during
+#     If your SSL certificate could not handle one of the doMains used during
 #     redirection, you should turn the condition on.
 #
 #     https://github.com/h5bp/server-configs-apache/issues/52
@@ -407,13 +407,13 @@ RewriteRule ^(.*)$ https://www.leshautsbois.fr/$1 [R,L]
 #
 # (2) The rule assumes by default that both HTTP and HTTPS environments are
 #     available for redirection.
-#     If your SSL certificate could not handle one of the domains used during
+#     If your SSL certificate could not handle one of the doMains used during
 #     redirection, you should turn the condition on.
 #
 #     https://github.com/h5bp/server-configs-apache/issues/52
 
 # Be aware that the following might not be a good idea if you use "real"
-# subdomains for certain parts of your website.
+# subdoMains for certain parts of your website.
 
 # <IfModule mod_rewrite.c>
 
@@ -640,7 +640,7 @@ RewriteRule ^(.*)$ https://www.leshautsbois.fr/$1 [R,L]
 #
 # (1) Preloading Strict Transport Security.
 #     To submit your site for HSTS preloading, it is required that:
-#     * the `includeSubDomains` directive is specified
+#     * the `includeSubDoMains` directive is specified
 #     * the `preload` directive is specified
 #     * the `max-age` is specified with a value of at least 31536000 seconds
 #       (1 year).
@@ -653,9 +653,9 @@ RewriteRule ^(.*)$ https://www.leshautsbois.fr/$1 [R,L]
 # https://hstspreload.org/
 
 # <IfModule mod_headers.c>
-#     Header always set Strict-Transport-Security "max-age=16070400; includeSubDomains" "expr=%{HTTPS} == 'on'"
+#     Header always set Strict-Transport-Security "max-age=16070400; includeSubDoMains" "expr=%{HTTPS} == 'on'"
 #     # (1) Enable your site for HSTS preload inclusion.
-#     # Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" "expr=%{HTTPS} == 'on'"
+#     # Header always set Strict-Transport-Security "max-age=31536000; includeSubDoMains; preload" "expr=%{HTTPS} == 'on'"
 # </IfModule>
 
 # ----------------------------------------------------------------------
@@ -759,7 +759,7 @@ RewriteRule ^(.*)$ https://www.leshautsbois.fr/$1 [R,L]
 # however, other ways of sending TRACE requests with browsers have been
 # discovered, such as using Java.
 #
-# (!) If you have access to the main server configuration file, use the
+# (!) If you have access to the Main server configuration file, use the
 #     `TraceEnable` directive instead.
 #
 # https://tools.ietf.org/html/rfc7231#section-4.3.8
@@ -872,7 +872,7 @@ ServerSignature Off
                                       "text/vnd.rim.location.xloc" \
                                       "text/vtt" \
                                       "text/x-component" \
-                                      "text/x-cross-domain-policy" \
+                                      "text/x-cross-doMain-policy" \
                                       "text/xml"
 
     </IfModule>
@@ -1175,7 +1175,7 @@ FileETag None
 
   # Other
 
-    ExpiresByType text/x-cross-domain-policy            "access plus 1 week"
+    ExpiresByType text/x-cross-doMain-policy            "access plus 1 week"
 
 </IfModule>
 
@@ -1186,7 +1186,7 @@ FileETag None
 # Allow concatenation from within specific files.
 #
 # If you have the following lines in a file called, for example,
-# `main.combined.js`:
+# `Main.combined.js`:
 #
 #     <!--#include file="js/jquery.js" -->
 #     <!--#include file="js/jquery.timer.js" -->

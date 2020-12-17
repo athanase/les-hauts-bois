@@ -54,7 +54,6 @@
 					Profitez de la paix, de la douceur et l’authenticité du site en toutes saisons.
 				</p>
 			</div>
-
 			<div class="slideshow-container">
 				<script src="js/slider.js"></script>
 				<a class="prev" onclick="plus_slides( -1 )">&#10094;</a>

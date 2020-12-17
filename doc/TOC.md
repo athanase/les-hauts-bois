@@ -19,7 +19,7 @@
 
 ## Related projects
 
-The [H5BP organization](https://github.com/h5bp) maintains several projects that
+The [H5BP organization](https://github.com/h5bp) Maintains several projects that
 complement HTML5 Boilerplate, projects that can help you improve different
 aspects of your website/web app (e.g.: the performance, security, etc.).
 

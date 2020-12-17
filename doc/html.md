@@ -180,7 +180,7 @@ polyfills are all loaded before any other JavaScript.
 
 There are some misconceptions about Modernizr and polyfills. It's important to
 understand that Modernizr just handles feature checking, not polyfilling itself.
-The only thing Modernizr does regarding polyfills is that the team maintains [a
+The only thing Modernizr does regarding polyfills is that the team Maintains [a
 huge list of cross Browser
 polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills).
 
@@ -245,7 +245,7 @@ Further information:
 * [Google Analytics Demos & Tools](https://ga-dev-tools.appspot.com/)
 * [Privacy Controls in Google Analytics](https://support.google.com/analytics/answer/9019185)
 
-**N.B.** The Google Analytics snippet is included by default mainly because
+**N.B.** The Google Analytics snippet is included by default Mainly because
 Google Analytics is [currently one of the most popular tracking
 solutions](https://trends.builtwith.com/analytics/Google-Analytics) out there.
 However, its usage isn't set in stone, and you SHOULD consider exploring the

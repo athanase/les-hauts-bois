@@ -46,7 +46,7 @@
 						<input type="text" name="from_name" id="from_name">
 					</div>
 					<div class="field">
-						<label for="reply_to">Adresse Email</label><br>
+						<label for="reply_to">Adresse EMail</label><br>
 						<input type="text" name="reply_to" id="reply_to">
 					</div>
 					<div class="field">
@@ -63,10 +63,10 @@
 				</form>
 
 				<script type="text/javascript"
-						src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+						src="https://cdn.jsdelivr.net/npm/eMailjs-com@2/dist/eMail.min.js"></script>
 
 				<script type="text/javascript">
-					emailjs.init( 'user_OUuHN6hR59MsWtiaRANgN' )
+					eMailjs.init( 'user_OUuHN6hR59MsWtiaRANgN' )
 				</script>
 			</div>
 
@@ -105,14 +105,14 @@
 		const serviceID = 'default_service';
 		const templateID = 'template_0b694gu';
 
-		emailjs.sendForm( serviceID, templateID, this )
+		eMailjs.sendForm( serviceID, templateID, this )
 			.then( () =>
 			{
-				btn.value = 'Send Email';
+				btn.value = 'Send EMail';
 				alert( 'Envoi réussi !' );
 			}, ( err ) =>
 			{
-				btn.value = 'Send Email';
+				btn.value = 'Send EMail';
 				alert( JSON.stringify( err ) );
 			} );
 	} );

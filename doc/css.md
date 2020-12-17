@@ -6,7 +6,7 @@ table of contents](TOC.md)
 HTML5 Boilerplate's CSS includes:
 
 * [Normalize.css](#normalizecss)
-* [main.css](#maincss)
+* [main.css](#Maincss)
 
 ## Normalize.css
 

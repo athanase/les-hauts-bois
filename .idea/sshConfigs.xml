@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ssh.cluster020.hosting.ovh.net" id="68a94834-b9a4-4fd1-9802-0040e39310f0" port="22" customName="SFTP OVH" nameFormat="CUSTOM" username="domainedsaj">
+        <option name="customName" value="SFTP OVH" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

@@ -23,6 +23,11 @@
 			echo " id=\"current_page\"";
 		} ?>href="../html/prices.php">Tarifs</a>
 
+		<a <?php if( $this_page == "webcams" )
+		{
+			echo " id=\"current_page\"";
+		} ?>href="../html/webcams.php">Webcams Pistes</a>
+
 		<a <?php if( $this_page == "contact" )
 		{
 			echo " id=\"current_page\"";

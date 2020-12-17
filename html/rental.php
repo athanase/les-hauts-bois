@@ -76,9 +76,9 @@
 						new Highlight( "1 terrasse privative avec table bois", [
 							new Image( "../images/colchique/colchique_terrasse.jpg", "Colchique_Terrasse" ),
 						] ),
-						new Highlight( "1 local de rangement, (ski, luge, VTT…)", [
-							new Image( "../images/colchique/colchique_local.jpg", "Colchique_Local" ),
-						] ),
+						// new Highlight( "1 local de rangement, (ski, luge, VTT…)", [
+						// 	new Image( "../images/colchique/colchique_local.jpg", "Colchique_Local" ),
+						// ] ),
 						new Highlight( "1 bûcher pour le bois", [
 							new Image( "../images/colchique/colchique_ext_2.jpg", "Colchique_Bois" ),
 						] ),
@@ -144,9 +144,9 @@
 						new Highlight( "1 terrasse privative avec table bois", [
 							new Image( "../images/anemone/anemone_ext_2.jpg", "Anémone_Terrasse" ),
 						] ),
-						new Highlight( "1 local de rangement, (ski, luge, VTT…)", [
-							new Image( "../images/anemone/anemone_local.jpg", "Anémone_Local" ),
-						] ),
+						// new Highlight( "1 local de rangement, (ski, luge, VTT…)", [
+						// 	new Image( "../images/anemone/anemone_local.jpg", "Anémone_Local" ),
+						// ] ),
 						new Highlight( "1 bûcher pour le bois", [
 							new Image( "../images/anemone/anemone_ext_5.jpg", "Anémone_Bois" ),
 						] ),
@@ -209,9 +209,9 @@
 						new Highlight( "1 terrasse privative avec table bois", [
 							new Image( "../images/eglantine/eglantine_ext_4.jpg", "Églantine_Terrasse" ),
 						] ),
-						new Highlight( "1 local de rangement, (ski, luge, VTT…)", [
-							new Image( "../images/eglantine/eglantine_local.jpg", "Églantine_Local" ),
-						] ),
+						// new Highlight( "1 local de rangement, (ski, luge, VTT…)", [
+						// 	new Image( "../images/eglantine/eglantine_local.jpg", "Églantine_Local" ),
+						// ] ),
 						new Highlight( "1 bûcher pour le bois", [
 							new Image( "../images/eglantine/eglantine_ext_5.jpg", "Églantine_Bois" ),
 						] ),

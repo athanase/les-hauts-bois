@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="285959ad-a0c0-4ddf-8bd1-9b6208c3ec41" name="Default Changelist" comment="Updating images">
+      <change afterPath="$PROJECT_DIR$/html/webcams.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anemone/anemone_ext_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anemone/anemone_local.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/colchique/colchique_WC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/colchique/colchique_chambre3_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/colchique/colchique_chambre3_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/colchique/colchique_local.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/colchique/colchique_poele.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/colchique/colchique_terrasse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/anemone/anemone_ext_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/anemone/anemone_local.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/colchique/colchique_WC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/colchique/colchique_chambre3_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/colchique/colchique_chambre3_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/colchique/colchique_local.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/colchique/colchique_poele.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/colchique/colchique_terrasse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/edelweiss/20200702_190952.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/edelweiss/20200702_191010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/eglantine/NEW_eglantine_ext1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/eglantine/NEW_eglantine_salon1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/eglantine/eglantine_local.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/eglantine/eglantine_salle_a_manger_cuisine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/raw/eglantine/eglantine_salon2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/TOC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/css.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/misc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/prices.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/prices.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/rental.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/rental.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_SdB1_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_SdB1_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_SdB1_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_SdB1_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_SdB2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_SdB2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_WC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_WC.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_chambre1_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_chambre1_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_chambre1_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_chambre1_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_chambre2_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_chambre2_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_chambre2_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_chambre2_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_chambre3_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_chambre3_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_chambre3_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_chambre3_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_chambre3_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_chambre3_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_chambre3_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_chambre3_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_chambre3_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_chambre3_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_cuisine_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_cuisine_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_cuisine_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_cuisine_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_cuisine_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_cuisine_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_cuisine_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_cuisine_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_ext_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_ext_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_ext_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_ext_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_salon_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_salon_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_salon_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_salon_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_salon_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_salon_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anemone/anemone_sauna.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/anemone/anemone_sauna.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/main_menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/main_menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="4d465b51-7ff9-47e6-91b0-6eb606673d60" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1kK9vIUquI4mxcv7rU5rssa6ryL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/raw/edelweiss" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/raw/edelweiss" />
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$/images/eglantine" />
+      <recent name="$PROJECT_DIR$/images/raw/colchique" />
+      <recent name="$PROJECT_DIR$/images/raw/anemone" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/raw/eglantine" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/raw/colchique" />
+      <recent name="$PROJECT_DIR$/images/raw/anemone" />
+      <recent name="$PROJECT_DIR$/images/anemone" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.php server">
+    <configuration name="les-hauts-bois" type="FirefoxRemoteDebugType">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/les-hauts-bois/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="php server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="main_menu.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/includes/main_menu.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/includes/test.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" start_url="/les-hauts-bois">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Firefox Remote.les-hauts-bois" />
+      <item itemvalue="JavaScript Debug.index.php" />
+      <item itemvalue="PHP Built-in Web Server.php server" />
+      <item itemvalue="PHP Script.test.php" />
+      <item itemvalue="PHP Script.main_menu.php" />
+      <item itemvalue="PHP Web Page.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.test.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="PHP Script.main_menu.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="285959ad-a0c0-4ddf-8bd1-9b6208c3ec41" name="Default Changelist" comment="" />
+      <created>1605438645442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605438645442</updated>
+      <workItem from="1605438647031" duration="2480000" />
+      <workItem from="1605441142665" duration="1075000" />
+      <workItem from="1605442227277" duration="1517000" />
+      <workItem from="1605452868795" duration="18864000" />
+      <workItem from="1605645876577" duration="95535000" />
+      <workItem from="1606253053312" duration="2758000" />
+      <workItem from="1606288226383" duration="652000" />
+      <workItem from="1606821019961" duration="6699000" />
+      <workItem from="1607072262171" duration="158000" />
+      <workItem from="1607464203390" duration="533000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updating images">
+      <created>1606255728813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606255728813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating images" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="5008" y="248" width="1446" height="1176" key="#CLI_Interpreters" timestamp="1605442270186">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5008" y="248" width="1446" height="1176" key="#CLI_Interpreters/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605442270186" />
+    <state x="5168" y="273" width="1140" height="1245" key="#PHP" timestamp="1605442207981">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5168" y="273" width="1140" height="1245" key="#PHP/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605442207981" />
+    <state x="5083" y="181" width="1460" height="1211" key="#SSH_Configurations" timestamp="1606043622449">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5083" y="181" width="1460" height="1211" key="#SSH_Configurations/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606043622449" />
+    <state x="5007" y="219" width="1446" height="1176" key="#Servers" timestamp="1605459473458">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5007" y="219" width="1446" height="1176" key="#Servers/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605459473458" />
+    <state x="4636" y="108" width="2245" height="1721" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605983068354">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4636" y="108" width="2245" height="1721" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605983068354" />
+    <state x="5294" y="658" width="921" height="855" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605957047462">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5294" y="658" width="921" height="855" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605957047462" />
+    <state x="3840" y="70" width="3840" height="2090" key="DiffContextDialog" timestamp="1606062122237">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3840" y="70" width="3840" height="2090" key="DiffContextDialog/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606062122237" />
+    <state x="4591" y="569" width="2480" height="1135" key="DirDiffDialog" timestamp="1606255542911">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4591" y="569" width="2480" height="1135" key="DirDiffDialog/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606255542911" />
+    <state x="5380" y="614" width="746" height="826" key="FileChooserDialogImpl" timestamp="1605649240560">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5380" y="614" width="746" height="826" key="FileChooserDialogImpl/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605649240560" />
+    <state x="5218" y="909" width="994" height="422" key="Github.ShareDialog" timestamp="1606145592045">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5218" y="909" width="994" height="422" key="Github.ShareDialog/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606145592045" />
+    <state x="5419" y="571" width="671" height="1029" key="Github.UntrackedFilesDialog" timestamp="1606145607087">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5419" y="571" width="671" height="1029" key="Github.UntrackedFilesDialog/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606145607087" />
+    <state width="3760" height="207" key="GridCell.Tab.0.bottom" timestamp="1607072419405">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3760" height="207" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1607072419405" />
+    <state width="3760" height="207" key="GridCell.Tab.0.center" timestamp="1607072419405">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3760" height="207" key="GridCell.Tab.0.center/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1607072419405" />
+    <state width="3760" height="207" key="GridCell.Tab.0.left" timestamp="1607072419405">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3760" height="207" key="GridCell.Tab.0.left/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1607072419405" />
+    <state width="3760" height="207" key="GridCell.Tab.0.right" timestamp="1607072419405">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3760" height="207" key="GridCell.Tab.0.right/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1607072419405" />
+    <state width="1840" height="732" key="GridCell.Tab.1.bottom" timestamp="1605457360025">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1840" height="732" key="GridCell.Tab.1.bottom/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605457360025" />
+    <state width="1840" height="732" key="GridCell.Tab.1.center" timestamp="1605457360025">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1840" height="732" key="GridCell.Tab.1.center/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605457360025" />
+    <state width="1840" height="732" key="GridCell.Tab.1.left" timestamp="1605457360025">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1840" height="732" key="GridCell.Tab.1.left/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605457360025" />
+    <state width="1840" height="732" key="GridCell.Tab.1.right" timestamp="1605457360025">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1840" height="732" key="GridCell.Tab.1.right/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605457360025" />
+    <state width="1840" height="732" key="GridCell.Tab.2.bottom" timestamp="1605457360026">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1840" height="732" key="GridCell.Tab.2.bottom/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605457360026" />
+    <state width="1840" height="732" key="GridCell.Tab.2.center" timestamp="1605457360026">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1840" height="732" key="GridCell.Tab.2.center/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605457360026" />
+    <state width="1840" height="732" key="GridCell.Tab.2.left" timestamp="1605457360026">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1840" height="732" key="GridCell.Tab.2.left/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605457360026" />
+    <state width="1840" height="732" key="GridCell.Tab.2.right" timestamp="1605457360026">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1840" height="732" key="GridCell.Tab.2.right/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605457360026" />
+    <state x="5432" y="910" width="642" height="234" key="NewPhpFileDialog" timestamp="1605443291358">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5432" y="910" width="642" height="234" key="NewPhpFileDialog/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605443291358" />
+    <state x="4212" y="171" width="3064" height="1786" key="SettingsEditor" timestamp="1606053252544">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4212" y="171" width="3064" height="1786" key="SettingsEditor/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606053252544" />
+    <state x="5053" y="634" width="1404" height="904" key="Vcs.Push.Dialog.v2" timestamp="1606255730140">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5053" y="634" width="1404" height="904" key="Vcs.Push.Dialog.v2/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606255730140" />
+    <state x="3840" y="100" width="3840" height="2060" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605823112921">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3840" y="100" width="3840" height="2060" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605823112921" />
+    <state x="4953" y="-30" width="1546" height="2162" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1605442267090">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4953" y="-30" width="1546" height="2162" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605442267090" />
+    <state x="5247" y="427" width="1025" height="1317" key="find.popup" timestamp="1606833208913">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5247" y="427" width="1025" height="1317" key="find.popup/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606833208913" />
+    <state x="5434" y="751" width="1009" height="837" key="ftp.server.browser" timestamp="1606043635296">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5434" y="751" width="1009" height="837" key="ftp.server.browser/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606043635296" />
+    <state x="5017" y="573" width="1293" height="735" key="publish.login" timestamp="1606821888385">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5017" y="573" width="1293" height="735" key="publish.login/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606821888385" />
+    <state x="5169" y="507" key="run.anything.popup" timestamp="1605455081713">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5169" y="507" key="run.anything.popup/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1605455081713" />
+    <state x="5165" y="182" width="1186" height="1976" key="search.everywhere.popup" timestamp="1606255011143">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5165" y="182" width="1186" height="1976" key="search.everywhere.popup/3840.0.3840.2160/0.0.3840.2160/7680.0.3840.2160@3840.0.3840.2160" timestamp="1606255011143" />
+  </component>
+</project>

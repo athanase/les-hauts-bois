@@ -35,7 +35,7 @@ with some data about the user's current state on the website.
 
 ## DNS prefetching
 
-In short, DNS Prefetching is a method of informing the browser of domain names
+In short, DNS Prefetching is a method of informing the browser of doMain names
 referenced on a site so that the client can resolve the DNS for those hosts,
 cache them, and when it comes time to use them, have a faster turn around on the
 request.
@@ -44,8 +44,8 @@ request.
 
 There is a lot of prefetching done for you automatically by the browser. When
 the browser encounters an anchor in your html that does not share the same
-domain name as the current location the browser requests, from the client OS,
-the IP address for this new domain. The client first checks its cache and then,
+doMain name as the current location the browser requests, from the client OS,
+the IP address for this new doMain. The client first checks its cache and then,
 lacking a cached copy, makes a request from a DNS server. These requests happen
 in the background and are not meant to block the rendering of the page.
 
@@ -56,10 +56,10 @@ is increased on a mobile platform where DNS latency can be greater.
 
 ### Explicit prefetches
 
-Typically the browser only scans the HTML for foreign domains. If you have
+Typically the browser only scans the HTML for foreign doMains. If you have
 resources that are outside of your HTML (a javascript request to a remote server
 or a CDN that hosts content that may not be present on every page of your site,
-for example) then you can queue up a domain name to be prefetched.
+for example) then you can queue up a doMain name to be prefetched.
 
 ```html
 <link rel="dns-prefetch" href="//example.com">
@@ -329,7 +329,7 @@ plugin](https://www.google.com/search?ie=UTF-8&q=how+to+make+browser+search+plug
 * Use
   [polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills).
 
-* Use [Microformats](http://microformats.org/wiki/Main_Page) (via
+* Use [Microformats](http://microformats.org/wiki/main_Page) (via
   [microdata](http://microformats.org/wiki/microdata)) for optimum search
   results
   [visibility](https://webmasters.googleblog.com/2009/05/introducing-rich-snippets.html).
