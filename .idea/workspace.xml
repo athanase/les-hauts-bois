@@ -25,7 +25,7 @@
     <list default="true" id="285959ad-a0c0-4ddf-8bd1-9b6208c3ec41" name="Default Changelist" comment="Updating images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/chalets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/rental.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/rental.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -154,7 +154,8 @@
       <workItem from="1607072262171" duration="158000" />
       <workItem from="1607464203390" duration="533000" />
       <workItem from="1609016234827" duration="293000" />
-      <workItem from="1609016542856" duration="2865000" />
+      <workItem from="1609016542856" duration="5791000" />
+      <workItem from="1609096076727" duration="2117000" />
     </task>
     <task id="LOCAL-00001" summary="Updating images">
       <created>1606255728813</created>
