@@ -103,22 +103,22 @@
 	display: flex;
 	justify-content: center;
 	flex-direction: row;
-	padding-block: 20px;
 }
 
 .chalet_title {
 	display: flex;
 	margin: auto;
+	justify-content: space-evenly;
+	flex-direction: column;
+	margin-right: 10px;
 }
 
 .chalet_image {
 	display: flex;
-	margin: auto;
 }
 
 .chalet_desc {
 	display: flex;
-	/*padding-block: 20px;*/
 	justify-content: space-between;
 	flex-direction: column;
 }

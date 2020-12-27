@@ -40,11 +40,9 @@
 // 	show_slides( slide_index = n );
 // }
 
-function Image( path, text )
-{
-	function display_image()
-	{
-		document.write( `<div class="zoom"><img src=${this.path} alt=${this.text} style="max-height:200px; border-radius: 2px;"></div>` );
+function Image(path, text) {
+	function display_image() {
+		document.write(`<div class="zoom"><img src=${this.path} alt=${this.text} style="max-height:200px; border-radius: 2px;"></div>`);
 	}
 
 	this.path = path;
@@ -52,19 +50,16 @@ function Image( path, text )
 	this.display_image = display_image;
 }
 
-function Highlight( text, images )
-{
-	function display_highlight()
-	{
-		document.write( "<div class=\"room_desc\">" );
-		document.write( "<div class=\"room_title\">" + this.text + "</div>" );
-		document.write( "<div class=\"room_images\">" );
+function Highlight(text, images) {
+	function display_highlight() {
+		document.write("<div class=\"room_desc\">");
+		document.write("<div class=\"room_title\">" + this.text + "</div>");
+		document.write("<div class=\"room_images\">");
 
-		this.images.forEach( function( array_item )
-		{
+		this.images.forEach(function (array_item) {
 			array_item.display_image();
-		} );
-		document.write( "</div>" );
+		});
+		document.write("</div>");
 
 		// document.write( "<div id=\"my_modal\" class=\"modal\">" );
 		// document.write( "<span class=\"close cursor\" onclick=\"close_modal()\">&times;</span>" )
@@ -72,7 +67,7 @@ function Highlight( text, images )
 		// document.write( "</div>" );
 		// document.write( "</div>" );
 
-		document.write( "</div>" );
+		document.write("</div>");
 	}
 
 	this.text = text;
@@ -80,15 +75,13 @@ function Highlight( text, images )
 	this.display_highlight = display_highlight;
 }
 
-function Equipment()
-{
-	function display()
-	{
-		document.write( "<div class=\"floor\">" );
-		document.write( "<div class=\"floor_title\">" + "Les équipements" + "</div>" );
+function Equipment() {
+	function display() {
+		document.write("<div class=\"floor\">");
+		document.write("<div class=\"floor_title\">" + "Les équipements" + "</div>");
 
-		document.write( "<div class=\"room_list\">" );
-		document.write( "<div>\n" +
+		document.write("<div class=\"room_list\">");
+		document.write("<div>\n" +
 			"\t\t\t\t\t\t\t\tPlaque vitrocéramique<br>\n" +
 			"\t\t\t\t\t\t\t\tCombiné four micro-onde<br>\n" +
 			"\t\t\t\t\t\t\t\tHotte aspirante<br>\n" +
@@ -106,31 +99,28 @@ function Equipment()
 			"\t\t\t\t\t\t\t\tCouettes, oreillers, couvertures.<br>\n" +
 			"\t\t\t\t\t\t\t\tTélévision<br>\n" +
 			"\t\t\t\t\t\t\t\tInternet Haut Débit<br>\n" +
-			"\t\t\t\t\t\t\t</div>" );
-		document.write( "</div>" )
+			"\t\t\t\t\t\t\t</div>");
+		document.write("</div>")
 
-		document.write( "</div>" )
+		document.write("</div>")
 	}
 
 	// this.items = items;
 	this.display = display;
 }
 
-function Floor( name, highlights )
-{
-	function display()
-	{
-		document.write( "<div class=\"floor\">" );
-		document.write( "<div class=\"floor_title\">" + this.name + "</div>" );
+function Floor(name, highlights) {
+	function display() {
+		document.write("<div class=\"floor\">");
+		document.write("<div class=\"floor_title\">" + this.name + "</div>");
 
-		document.write( "<div class=\"room_list\">" );
-		this.highlights.forEach( function( highlight )
-		{
+		document.write("<div class=\"room_list\">");
+		this.highlights.forEach(function (highlight) {
 			highlight.display_highlight();
-		} );
-		document.write( "</div>" )
+		});
+		document.write("</div>")
 
-		document.write( "</div>" )
+		document.write("</div>")
 	}
 
 	this.name = name;
@@ -138,27 +128,24 @@ function Floor( name, highlights )
 	this.display = display;
 }
 
-function Rental( rental_name, rental_image, floors, equipment )
-{
-	function display_title()
-	{
-		document.write( "<div class=\"chalet\">" );
-		document.write( `<div class="chalet_title"> Le chalet ${this.rental_name} est un chalet d’une surface de 65 /70m² environ pouvant accueillir jusqu’à 8 personnes. </div>` );
-		document.write( "<div class=\"chalet_image\">" );
-		document.write( `<div><img src=${this.rental_image.path} alt=${this.rental_image.alt} style="max-height:500px; border-radius: 2px;"></div>` );
-		document.write( "</div>" );
-		document.write( "</div>" );
+function Rental(rental_name, rental_image, floors, equipment) {
+	function display_title() {
+		document.write("<div class=\"chalet\">");
+		document.write(`<div class="chalet_title"> <p> Le chalet ${this.rental_name} est situé au coeur du village de Chapelle des Bois, à 1 minutes à pied du départ des pistes de ski de fond et raquette.
+</br></br>C'est un chalet d’une surface de 70m² environ pouvant accueillir jusqu’à 8 personnes.</p></div>`);
+		document.write("<div class=\"chalet_image\">");
+		document.write(`<div><img src=${this.rental_image.path} alt=${this.rental_image.alt} style="max-width:500px; border-radius: 2px;"></div>`);
+		document.write("</div>");
+		document.write("</div>");
 	}
 
-	function display_rental_desc()
-	{
-		document.write( "<div class=\"chalet_desc\">" );
-		this.floors.forEach( function( floor )
-		{
+	function display_rental_desc() {
+		document.write("<div class=\"chalet_desc\">");
+		this.floors.forEach(function (floor) {
 			floor.display();
-		} );
+		});
 		this.equipment.display();
-		document.write( "</div>" )
+		document.write("</div>")
 	}
 
 	this.rental_name = rental_name;
