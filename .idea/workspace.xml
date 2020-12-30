@@ -23,8 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="285959ad-a0c0-4ddf-8bd1-9b6208c3ec41" name="Default Changelist" comment="Updating images">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main_menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main_menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/rental.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/rental.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
@@ -66,12 +68,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images/raw/edelweiss" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -155,7 +162,8 @@
       <workItem from="1607464203390" duration="533000" />
       <workItem from="1609016234827" duration="293000" />
       <workItem from="1609016542856" duration="5791000" />
-      <workItem from="1609096076727" duration="2117000" />
+      <workItem from="1609096076727" duration="4494000" />
+      <workItem from="1609318659565" duration="3092000" />
     </task>
     <task id="LOCAL-00001" summary="Updating images">
       <created>1606255728813</created>
@@ -164,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606255728813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updating images">
+      <created>1609098303299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609098303299</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

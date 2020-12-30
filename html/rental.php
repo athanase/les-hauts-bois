@@ -298,8 +298,13 @@
 					edelweiss.display_gite_title(
 						"D'une surface de 115 mètres carrés sur un niveau, le gîte Edelweiss peut acceuillir jusqu'à 10 personnes." +
 						"<br><br>Il est idéalement situé au calme, au départ des pistes de ski de fond et de raquettes, et à 5 minutes à pieds du centre du village." +
-						"<br><br>Il dispose d'une cuisine équipée ouverte sur un grande pièce salle à manger/séjour avec un poêle à bois, d'une chambre avec un lit double, " +
-						"de 2 chambres avec 3 lits simples chacune, de 2 salles de bain (dont une avec un WC), d'un WC séparé." +
+						"<br><br>Il dispose de : " +
+						"<br> - 1 cuisine équipée ouverte sur une grande pièce salle à manger/séjour" +
+						"<br> - 1 poêle à bois" +
+						"<br> - 1 chambre avec un lit double" +
+						"<br> - 2 chambres avec 3 lits simples chacune" +
+						"<br> - 2 salles de bain (dont une avec un WC)" +
+						"<br> - 1 WC séparé." +
 						"<br><br>L'accès au sous-sol du batiment permet d'entreposer du matériel");
 					edelweiss.display_rental_desc();
 				</script>

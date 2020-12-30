@@ -133,11 +133,12 @@ function Rental(rental_name, rental_image, floors, equipment) {
 		document.write("<div class=\"chalet\">");
 // 		document.write(`<div class="chalet_title"> <p>Le chalet ${this.rental_name} est situé au coeur du village de Chapelle des Bois, à 1 minutes à pied du départ des pistes de ski de fond et raquette.
 // </br></br>C'est un chalet d’une surface de 70m² environ pouvant accueillir jusqu’à 8 personnes.</p></div>`);
-		document.write(`<div class="chalet_title"> <p>D'une surface de 70 mètres carrés repartis sur 2 niveaux, ${this.rental_name} peut acceuillir jusqu'à 8 personnes.
+		document.write(`<div class="chalet_title"> <p>D'une surface de 70 mètres carrés repartis sur 2 niveaux, ${this.rental_name} peut accueillir jusqu'à 8 personnes.
 <br><br>Il est idéalement situé au calme, au départ des pistes de ski de fond et de raquettes, et à 5 minutes à pieds du centre du village.
 <br><br>Au rez de chaussée, il dispose d'un séjour/cuisine toute équipée (avec un poêle à bois), de 2 chambres doubles, d'un sauna, d'une salle de bain et d'un WC.
 <br><br>L'étage acceuille 4 lits simples et une salle de bain.
 <br><br>Un local attenant permet d'entreposer du matériel.
+<br><br>Il possède également une terrasse privative avec un barbecue et du mobilier de jardin.
 </p></div>`);
 		document.write("<div class=\"chalet_image\">");
 		document.write(`<div><img src=${this.rental_image.path} alt=${this.rental_image.alt} style="max-width:500px; border-radius: 2px;"></div>`);
