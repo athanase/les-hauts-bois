@@ -299,22 +299,62 @@
 						"D'une surface de 115 mètres carrés sur un niveau, le gîte Edelweiss peut acceuillir jusqu'à 10 personnes." +
 						"<br><br>Il est idéalement situé au calme, au départ des pistes de ski de fond et de raquettes, et à 5 minutes à pieds du centre du village." +
 						"<br><br>Il dispose de : " +
-						"<br> - 1 cuisine équipée ouverte sur une grande pièce salle à manger/séjour" +
+						"<br> - 1 cuisine équipée ouverte sur une grande pièce salle à manger/séjour (avec 1 canapé convertible)" +
 						"<br> - 1 poêle à bois" +
 						"<br> - 1 chambre avec un lit double" +
 						"<br> - 2 chambres avec 3 lits simples chacune" +
 						"<br> - 2 salles de bain (dont une avec un WC)" +
 						"<br> - 1 WC séparé." +
-						"<br><br>L'accès au sous-sol du batiment permet d'entreposer du matériel");
+						"<br><br>L'accès au sous-sol du batiment permet d'entreposer du matériel.");
 					edelweiss.display_rental_desc();
 				</script>
 			</div>
 			<div class="tab_content" id="capucine">
-				<div class="chalet">
-					<div class="chalet_title">
-						Photos et descriptions bientôt disponibles.
-					</div>
-				</div>
+				<script>
+					const capucine_highlights_1 = [
+						new Highlight( "La cuisine équipée/salle à manger", [
+							new Image( "../images/capucine/cuisine_1.jpg", "Capucine_cuisine_1" ),
+						] ),
+						new Highlight( "Le salon", [
+							new Image( "../images/capucine/salon_1.jpeg", "Capucine_salon_1" ),
+							new Image( "../images/capucine/salon_2.jpg", "Capucine_salon_2" ),
+						] ),
+						new Highlight( "Une première chambre avec un lit double", [
+							new Image( "../images/capucine/chambre_1_2.jpeg", "Capucine_chambre_1_2" ),
+							new Image( "../images/capucine/chambre_1_4.jpeg", "Capucine_chambre_1_4" ),
+						] ),
+						new Highlight( "Une seconde chambre avec 2 lits simples", [
+							new Image( "../images/capucine/chambre_2_1.jpeg", "Capucine_chambre_2_1" ),
+							new Image( "../images/capucine/chambre_2_2.jpeg", "Capucine_chambre_2_2" ),
+						] ),
+						new Highlight( "Une salle de bain avec toilettes", [
+							new Image( "../images/capucine/sdb_1.jpeg", "Capucine_SDB_1_1" ),
+							new Image( "../images/capucine/sdb_2.jpeg", "Capucine_SDB_1_2" ),
+						] ),
+					]
+
+					const capucine = new Rental(
+						"Capucine",
+						new Image( "../images/capucine/salon_2.jpg", "Capucine_salon_1" ),
+						[
+							new Floor( "Les Pièces", capucine_highlights_1 ),
+						],
+						new Equipment()
+					);
+
+					capucine.display_gite_title(
+						"D'une surface de 70 mètres carrés sur un niveau, le gîte Capucine peut acceuillir jusqu'à 6 personnes." +
+						"<br><br>Il est idéalement situé au calme, au départ des pistes de ski de fond et de raquettes, et à 5 minutes à pieds du centre du village." +
+						"<br><br>Il dispose de : " +
+						"<br> - 1 cuisine équipée avec salle à manger" +
+						"<br> - 1 séjour (avec 1 canapé convertible)" +
+						"<br> - 1 chambre avec un lit double" +
+						"<br> - 1 chambre avec 2 lits simples" +
+						"<br> - 1 salles de bain avec un WC" +
+						"<br> - 1 balcon." +
+						"<br><br>L'accès au sous-sol du batiment permet d'entreposer du matériel.");
+					capucine.display_rental_desc();
+				</script>
 			</div>
 		</div>
 	</div>

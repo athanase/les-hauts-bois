@@ -8,8 +8,8 @@
 		</div>
 		<div class="h1">
 			<h1>
-				Chalets à Chapelle Des Bois,
-				au coeur du Parc Naturel du Haut-Jura.
+				Chalets à Chapelle-des-Bois,
+				au coeur du Parc Naturel Régional du Haut-Jura.
 			</h1>
 		</div>
 	</div>

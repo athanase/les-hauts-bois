@@ -92,13 +92,15 @@ function Equipment() {
 			"\t\t\t\t\t\t\t\tAppareil à raclette<br>\n" +
 			"\t\t\t\t\t\t\t\tCafetière<br>\n" +
 			"\t\t\t\t\t\t\t\tGrille pain<br>\n" +
-			"\t\t\t\t\t\t\t\tVaisselle pour 8 personnes<br>\n" +
+			"\t\t\t\t\t\t\t\tVaisselle<br>\n" +
 			"\t\t\t\t\t\t\t\tBouilloire<br>\n" +
 			"\t\t\t\t\t\t\t</div>\n" +
 			"\t\t\t\t\t\t\t<div>\n" +
 			"\t\t\t\t\t\t\t\tCouettes, oreillers, couvertures.<br>\n" +
 			"\t\t\t\t\t\t\t\tTélévision<br>\n" +
 			"\t\t\t\t\t\t\t\tInternet Haut Débit<br>\n" +
+			"\t\t\t\t\t\t\t\tSèche-cheveux<br>\n" +
+			"\t\t\t\t\t\t\t\tSupport d'atelier pour vélo<br>\n" +
 			"\t\t\t\t\t\t\t</div>");
 		document.write("</div>")
 

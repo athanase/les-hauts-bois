@@ -39,7 +39,9 @@
 		<div class="content">
 
 			<div id="contact_form">
-				<p>Pour toute demande merci de remplir le formulaire ci-dessous (pensez à cocher la case de vérification avant d'envoyer) :</p><br>
+				<p>Pour toute demande, vous pouvez nous contacter au <span class="rev phone">84 70 60</span></p>
+				<p> ou bien remplir le formulaire ci-dessous (pensez à cocher la case de vérification avant d'envoyer)
+					:</p><br>
 				<form id="form">
 					<div class="field">
 						<label for="from_name">Nom</label><br>
@@ -63,10 +65,8 @@
 				</form>
 
 				<script type="text/javascript"
-						src="https://cdn.jsdelivr.net/npm/eMailjs-com@2/dist/eMail.min.js"></script>
-
-				<script type="text/javascript">
-					eMailjs.init( 'user_OUuHN6hR59MsWtiaRANgN' )
+						src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+				<script type="text/javascript"> emailjs.init('user_OUuHN6hR59MsWtiaRANgN')
 				</script>
 			</div>
 
@@ -94,10 +94,9 @@
 
 <script src="../js/scroll.js"></script>
 <script type="text/javascript">
-	const btn = document.getElementById( 'button' );
+	const btn = document.getElementById('button');
 
-	document.getElementById( 'form' ).addEventListener( 'submit', function( event )
-	{
+	document.getElementById('form').addEventListener('submit', function (event) {
 		event.preventDefault();
 
 		btn.value = 'Envoi en cours...';
@@ -105,17 +104,15 @@
 		const serviceID = 'default_service';
 		const templateID = 'template_0b694gu';
 
-		eMailjs.sendForm( serviceID, templateID, this )
-			.then( () =>
-			{
+		emailjs.sendForm(serviceID, templateID, this)
+			.then(() => {
 				btn.value = 'Send EMail';
-				alert( 'Envoi réussi !' );
-			}, ( err ) =>
-			{
+				alert('Envoi réussi !');
+			}, (err) => {
 				btn.value = 'Send EMail';
-				alert( JSON.stringify( err ) );
-			} );
-	} );
+				alert(JSON.stringify(err));
+			});
+	});
 </script>
 
 </body>

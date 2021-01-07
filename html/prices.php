@@ -38,7 +38,7 @@
 	<div class="content_container">
 		<div class="content">
 			<div>
-				Les tarifs indiqués ci-dessous sont des tarifs à la semaine.<br><br>
+				Les tarifs ci-dessous sont indiqués à la semaine et incluent les charges d'eau, d'électricité et de chauffage.<br><br>
 			</div>
 			<table>
 				<tr>

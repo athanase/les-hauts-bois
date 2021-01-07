@@ -23,12 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="285959ad-a0c0-4ddf-8bd1-9b6208c3ec41" name="Default Changelist" comment="Updating images">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main_menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main_menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/prices.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/prices.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/rental.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/rental.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/capucine/salon_3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +78,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/raw/edelweiss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/raw/capucine" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -83,11 +87,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/raw/capucine" />
       <recent name="$PROJECT_DIR$/images/raw/edelweiss" />
       <recent name="$PROJECT_DIR$/html" />
       <recent name="$PROJECT_DIR$/images/eglantine" />
       <recent name="$PROJECT_DIR$/images/raw/colchique" />
-      <recent name="$PROJECT_DIR$/images/raw/anemone" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/raw/eglantine" />
@@ -163,7 +167,11 @@
       <workItem from="1609016234827" duration="293000" />
       <workItem from="1609016542856" duration="5791000" />
       <workItem from="1609096076727" duration="4494000" />
-      <workItem from="1609318659565" duration="3092000" />
+      <workItem from="1609318659565" duration="6409000" />
+      <workItem from="1610033963293" duration="19000" />
+      <workItem from="1610034000706" duration="1797000" />
+      <workItem from="1610036076849" duration="812000" />
+      <workItem from="1610037943020" duration="2840000" />
     </task>
     <task id="LOCAL-00001" summary="Updating images">
       <created>1606255728813</created>
