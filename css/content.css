@@ -127,7 +127,7 @@ span.rev.phone:after {
 	justify-content: space-evenly;
 	/*flex-direction: row;*/
 	margin-right: 10px;
-	max-width: 600px;
+	max-width: 500px;
 }
 
 .chalet_image {

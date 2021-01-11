@@ -288,7 +288,7 @@
 
 					const edelweiss = new Rental(
 						"Edelweiss",
-						new Image( "../images/edelweiss/salon_1.jpg", "Edelweiss_salon_1" ),
+						new Image( "../images/winter/edelweiss_winter.jpg", "edelweiss_winter.jpg" ),
 						[
 							new Floor( "Les Pièces", edelweiss_highlights_1 ),
 						],
@@ -335,7 +335,7 @@
 
 					const capucine = new Rental(
 						"Capucine",
-						new Image( "../images/capucine/salon_2.jpg", "Capucine_salon_1" ),
+						new Image( "../images/winter/edelweiss_winter.jpg", "edelweiss_winter.jpg" ),
 						[
 							new Floor( "Les Pièces", capucine_highlights_1 ),
 						],

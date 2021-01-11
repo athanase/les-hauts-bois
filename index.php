@@ -61,6 +61,7 @@
 					let images = [
 						"images/winter/anemone_eglantine_winter.jpg",
 						"images/winter/colchique_winter_1.jpg",
+						"images/winter/edelweiss_winter.jpg",
 						"images/winter/winter_1.jpg",
 						"images/winter/winter_2.jpg",
 						"images/winter/winter_3.jpg",

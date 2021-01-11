@@ -25,14 +25,8 @@
     <list default="true" id="285959ad-a0c0-4ddf-8bd1-9b6208c3ec41" name="Default Changelist" comment="Updating images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/prices.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/prices.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/rental.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/rental.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/capucine/salon_3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +55,7 @@
       <server host="localhost" id="4d465b51-7ff9-47e6-91b0-6eb606673d60" name="localhost" />
     </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1kK9vIUquI4mxcv7rU5rssa6ryL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -78,11 +72,11 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/raw/capucine" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/php/php.exe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -172,6 +166,9 @@
       <workItem from="1610034000706" duration="1797000" />
       <workItem from="1610036076849" duration="812000" />
       <workItem from="1610037943020" duration="2840000" />
+      <workItem from="1610366599167" duration="323000" />
+      <workItem from="1610366931547" duration="421000" />
+      <workItem from="1610367525982" duration="557000" />
     </task>
     <task id="LOCAL-00001" summary="Updating images">
       <created>1606255728813</created>
