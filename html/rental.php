@@ -182,11 +182,11 @@
 					const eglantine_highlights_1 = [
 						new Highlight( "1 cuisine équipée ouverte sur séjour", [
 							new Image( "../images/eglantine/eglantine_cuisine.jpg", "Églantine_cuisine_1" ),
-							new Image( "../images/eglantine/eglantine_salon2.jpg", "Églantine_Salon" ),
+							// new Image( "../images/eglantine/eglantine_salon2.jpg", "Églantine_Salon" ),
 							new Image( "../images/eglantine/eglantine_salle_a_manger_cuisine.jpg", "Églantine_Salon" ),
 						] ),
 						new Highlight( "1 poêle a bois", [
-							new Image( "../images/eglantine/", "Églantine_poêle" ),
+							new Image( "../images/eglantine/eglantine_salon2.jpg", "Églantine_poêle" ),
 						] ),
 						new Highlight( "1 chambre avec lit 140 cm de large", [
 							new Image( "../images/eglantine/eglantine_chambre1_1.jpg", "Églantine_Chambre_1_1" ),
